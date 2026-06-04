@@ -327,15 +327,15 @@ This directly satisfies the mandatory Sync & Purge requirement of Hackathon 7.0.
 
 ## Home Screen
 
-<img width="350" height="800" alt="image" src="https://github.com/user-attachments/assets/1e491643-c93d-4561-b441-61399d90f2f6" />
-<img width="753" height="1600" alt="image" src="https://github.com/user-attachments/assets/2717dec3-5599-4397-af0d-4d7765785621" />
+<img width="180" height="400" alt="image" src="https://github.com/user-attachments/assets/1e491643-c93d-4561-b441-61399d90f2f6" />
+<img width="180" height="400"alt="image" src="https://github.com/user-attachments/assets/2717dec3-5599-4397-af0d-4d7765785621" />
 
 
 ---
 
 ## Video Capture Screen
 
-<img width="748" height="1600" alt="image" src="https://github.com/user-attachments/assets/d3168087-6de3-4ca0-a222-30dd498e49ba" />
+<img width="180" height="400" alt="image" src="https://github.com/user-attachments/assets/d3168087-6de3-4ca0-a222-30dd498e49ba" />
 
 
 ---
@@ -343,25 +343,25 @@ This directly satisfies the mandatory Sync & Purge requirement of Hackathon 7.0.
 ## Liveness Detection
 
 
-<img width="791" height="1600" alt="image" src="https://github.com/user-attachments/assets/c48387a9-504b-4f99-bb38-1af04f1d411a" />
+<img width="180" height="400" alt="image" src="https://github.com/user-attachments/assets/c48387a9-504b-4f99-bb38-1af04f1d411a" />
 
 --- 
 
 ## Face Recognition Result
 
-<img width="764" height="1600" alt="image" src="https://github.com/user-attachments/assets/11a6c024-89f6-4d55-9754-1f81ff061bce" />
+<img width="180" height="400" alt="image" src="https://github.com/user-attachments/assets/11a6c024-89f6-4d55-9754-1f81ff061bce" />
 
 
 ---
 
 ## Authentication Success
 
-<img width="784" height="1600" alt="image" src="https://github.com/user-attachments/assets/edd46617-2754-42aa-a845-07e44e68a3cf" />
-<img width="780" height="1600" alt="image" src="https://github.com/user-attachments/assets/51da474c-c56d-4590-adcf-7172e5b4a25e" />
+<img width="180" height="400" alt="image" src="https://github.com/user-attachments/assets/edd46617-2754-42aa-a845-07e44e68a3cf" />
+<img width="180" height="400" alt="image" src="https://github.com/user-attachments/assets/51da474c-c56d-4590-adcf-7172e5b4a25e" />
 
 ## Syncing Online
 
-<img width="1918" height="861" alt="image" src="https://github.com/user-attachments/assets/e5e21a39-b3af-4bb8-af76-6ef661c4cba9" />
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/e5e21a39-b3af-4bb8-af76-6ef661c4cba9" />
 
 ---
 
