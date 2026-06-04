@@ -327,7 +327,7 @@ This directly satisfies the mandatory Sync & Purge requirement of Hackathon 7.0.
 
 ## Home Screen
 
-<img width="762" height="1600" alt="image" src="https://github.com/user-attachments/assets/1e491643-c93d-4561-b441-61399d90f2f6" />
+<img width="350" height="800" alt="image" src="https://github.com/user-attachments/assets/1e491643-c93d-4561-b441-61399d90f2f6" />
 <img width="753" height="1600" alt="image" src="https://github.com/user-attachments/assets/2717dec3-5599-4397-af0d-4d7765785621" />
 
 
